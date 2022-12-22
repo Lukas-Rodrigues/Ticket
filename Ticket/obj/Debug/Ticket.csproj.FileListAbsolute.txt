@@ -1,0 +1,8 @@
+C:\Users\lucas\Desktop\Projetos\Ticket\Ticket\bin\Debug\Ticket.exe.config
+C:\Users\lucas\Desktop\Projetos\Ticket\Ticket\bin\Debug\Ticket.exe
+C:\Users\lucas\Desktop\Projetos\Ticket\Ticket\bin\Debug\Ticket.pdb
+C:\Users\lucas\Desktop\Projetos\Ticket\Ticket\obj\Debug\Ticket.csproj.AssemblyReference.cache
+C:\Users\lucas\Desktop\Projetos\Ticket\Ticket\obj\Debug\Ticket.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucas\Desktop\Projetos\Ticket\Ticket\obj\Debug\Ticket.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\Projetos\Ticket\Ticket\obj\Debug\Ticket.exe
+C:\Users\lucas\Desktop\Projetos\Ticket\Ticket\obj\Debug\Ticket.pdb
